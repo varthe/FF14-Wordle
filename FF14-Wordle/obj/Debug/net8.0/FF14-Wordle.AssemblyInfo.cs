@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FF14-Wordle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4cb8a6301e449be727709ab1708f31d8abf22d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("FF14-Wordle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FF14-Wordle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

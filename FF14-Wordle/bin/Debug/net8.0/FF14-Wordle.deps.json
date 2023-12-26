@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FF14-Wordle/1.0.0": {
+        "runtime": {
+          "FF14-Wordle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FF14-Wordle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
